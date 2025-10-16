@@ -31,17 +31,18 @@ This project provides a user-friendly interface for account creation and authent
 ---
 
 ## 📁 File Structure
-registration-login-form/
-│   index.html
-│   login.html
+```registration-login-form
+│ index.html # Registration page
+│ login.html # Login page
+│ README.md # Project overview and documentation
 │
 ├───css
-│       reset.css
-│       style.css
+│ reset.css # CSS reset for consistent styling
+│ style.css # Main styles for both pages
 │
-└───js
-        login.js
-        script.js
+├───js
+login.js # Login form logic and validation
+script.js # Registration form logic and validation```
 
 ---
 
