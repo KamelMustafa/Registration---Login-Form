@@ -19,11 +19,9 @@ Designed for educational and practical use, the system demonstrates core front-e
 - JavaScript (ES6) – DOM manipulation, event handling, validation logic
 - Regex – Email and phone number format validation
 
-📂 File Structure
-  registration-login-form/ │ ├── index.html              # Registration page ├── login.html              # Login page │ ├── css/ │   ├── reset.css           # CSS reset for consistent styling │   └── style.css           # Main styles for both pages │ ├── js/ │   ├── script.js           # Registration form logic and validation │   └── login.js            # Login form logic and validation │ └── README.md               # Project overview and documentation
+### 📁 File Structure
 
-
-
+registration-login-form/ │ ├── index.html              # Registration page ├── login.html              # Login page │ ├── css/ │   ├── reset.css           # CSS reset for consistent styling │   └── style.css           # Main styles for both pages │ ├── js/ │   ├── script.js           # Registration form logic and validation │   └── login.js            # Login form logic and validation │ └── README.md               # Project overview and documentation
 
 
 🎯 Use Case
