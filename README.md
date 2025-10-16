@@ -20,6 +20,7 @@ Designed for educational and practical use, the system demonstrates core front-e
 - Regex – Email and phone number format validation
 
 📂 File Structure
+
 project-folder/
 │
 ├── index.html         # Registration page
@@ -30,6 +31,7 @@ project-folder/
 ├── js/
 │   ├── script.js      # Registration logic
 │   └── login.js       # Login logic
+
 
 
 
