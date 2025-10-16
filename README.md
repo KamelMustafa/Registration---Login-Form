@@ -47,7 +47,6 @@ registration-login-form/
 └── README.md               # Project overview and documentation
 
 
-
 ---
 
 ## 🎯 Use Case
